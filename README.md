@@ -1,4 +1,4 @@
-```
+```sh
 git clone https://github.com/grewn0uille/base.git
 
 cd base
